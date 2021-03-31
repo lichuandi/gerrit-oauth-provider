@@ -1,0 +1,11 @@
+/.classpath
+/.project
+/.settings
+/bazel-bin
+/bazel-genfiles
+/bazel-oauth
+/bazel-out
+/bazel-testlogs
+/eclipse-out
+/.idea
+*.swp
